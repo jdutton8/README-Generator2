@@ -12,19 +12,15 @@ const questions = [
         choices: [
             {
             name: "MIT",
-            value: 0,
             }, 
             {
-            name: "APACHE 2.0",
-            value: 1,  
+            name: "APACHE 2.0", 
             },
             {
             name: "Artistic License 2.0",
-            value: 2,
             },
             {
             name: "None",
-            value: 3,
             },
         ],
 

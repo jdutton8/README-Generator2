@@ -19,7 +19,7 @@
  A simple application to generate a README.md file.
 
 ## Usage
- Run this application inside your terminal.
+ The user will run the application inside their terminal.
 
 ## Installation
  npm i
@@ -28,10 +28,10 @@
  No guidelines.
 
 ## Tests
- None.
+ No tests.
 
 ## Licenses
- This project is licensed under 0
+ This project is licensed under MIT
 
 ## Questions
  Please direct any questions to:
